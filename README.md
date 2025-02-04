@@ -16,6 +16,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [345.cpp](345.cpp) |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [443.cpp](443.cpp) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [605.cpp](605.cpp) |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [392.cpp](392.cpp) |
 
 ---
 

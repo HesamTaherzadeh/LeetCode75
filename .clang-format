@@ -1,0 +1,23 @@
+---
+Language:        Cpp
+BasedOnStyle:    Google
+IndentWidth:     4       # Adjust indentation width
+TabWidth:        4       # Adjust tab width
+UseTab:          Never   # Use spaces instead of tabs
+ColumnLimit:     100     # Line length limit (default is 80 in Google style)
+AllowShortFunctionsOnASingleLine: Empty  # Allow short functions to be one-liners
+BreakBeforeBraces: Custom   # Customize brace placement
+BraceWrapping:
+  AfterFunction:         true    # Place braces on a new line for functions
+  AfterClass:            true    # Place braces on a new line for classes
+  AfterControlStatement: true    # Place braces on a new line for control statements (if, for, while)
+AlignConsecutiveAssignments: true  # Align assignments for readability
+AlignTrailingComments:      true  # Align comments to the right
+SortIncludes:     true     # Sort #include directives alphabetically
+IncludeBlocks:    Regroup  # Group includes by standard, project, etc.
+PointerAlignment: Left     # Align pointer/reference with type
+SpacesInParentheses: false # No spaces inside parentheses
+Cpp11BracedListStyle: true # Proper formatting for C++11 initializer lists
+ReflowComments:   true     # Reflow comments exceeding the column limit
+IndentCaseLabels: true     # Indent case labels in switch statements
+SpacesBeforeTrailingComments: 2  # Add space before trailing comments
