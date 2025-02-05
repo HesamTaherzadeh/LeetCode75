@@ -1,14 +1,17 @@
-#include <string>
 #include <iostream>
+#include <string>
 
-
-class Solution {
-public:
-    bool isSubsequence(std::string s, std::string t) {
-        size_t ss {s.size()};
-        int counter {0};
-        for(char c : t){
-            if (c == s[counter]){
+class Solution
+{
+   public:
+    bool isSubsequence(std::string s, std::string t)
+    {
+        size_t ss{s.size()};
+        int counter{0};
+        for (char c : t)
+        {
+            if (c == s[counter])
+            {
                 counter++;
             }
         }
@@ -16,9 +19,8 @@ public:
     }
 };
 
-
-
-int main(){
+int main()
+{
     Solution sol;
     std::string s1{"abc"};
     std::string s2{"ahbgdc"};
