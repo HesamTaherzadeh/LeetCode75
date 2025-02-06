@@ -18,6 +18,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [605.cpp](605.cpp) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [392.cpp](392.cpp) |
 | 11 |  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [11.cpp](11.cpp) |
+| 1679 |  [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | [1679.cpp](1679.cpp) |
 
 ---
 
