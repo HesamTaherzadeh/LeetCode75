@@ -19,6 +19,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [392.cpp](392.cpp) |
 | 11 |  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [11.cpp](11.cpp) |
 | 1679 |  [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | [1679.cpp](1679.cpp) |
+| 643 |  [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | [643.cpp](643.cpp) |
 
 ---
 
