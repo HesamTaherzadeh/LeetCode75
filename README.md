@@ -1,5 +1,7 @@
 ### 📌 LeetCode Solutions Repository
 
+![solutions](https://img.shields.io/badge/Solutions-18-purple)
+
 This repository contains my solutions to various LeetCode problems. Each solution is implemented in C++ and stored in a separate file named after the problem number.
 
 #### 📝 Problem List
