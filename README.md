@@ -28,6 +28,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | 1732 |  [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | [1732.cpp](1732.cpp) |
 | 724 |  [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [724.cpp](724.cpp) |
 | 2215 |  [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)| [2215.cpp](2215.cpp) |
+| 1207 |  [Unique Number of Occurrences](https://leetcode.com/problems/find-the-difference-of-two-arrays)| [1207.cpp](1207.cpp) |
 
 ---
 
