@@ -30,6 +30,9 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | 2215 |  [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)| [2215.cpp](2215.cpp) |
 | 1207 |  [Unique Number of Occurrences](https://leetcode.com/problems/find-the-difference-of-two-arrays)| [1207.cpp](1207.cpp) |
 | 1657 |  [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)| [1657.cpp](1657.cpp) |
+| 2352 |  [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs)| [2352.cpp](2352.cpp) |
+| 2390 |  [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string)| [2390.cpp](2390.cpp) |
+| 735 |  [Asteroid Collision](https://leetcode.com/problems/asteroid-collision)| [735.cpp](735.cpp) |
 
 ---
 
