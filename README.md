@@ -33,6 +33,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | 2352 |  [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs)| [2352.cpp](2352.cpp) |
 | 2390 |  [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string)| [2390.cpp](2390.cpp) |
 | 735 |  [Asteroid Collision](https://leetcode.com/problems/asteroid-collision)| [735.cpp](735.cpp) |
+| 394 |  [Decode String](https://leetcode.com/problems/decode-string)| [394.cpp](394.cpp) |
 
 ---
 
