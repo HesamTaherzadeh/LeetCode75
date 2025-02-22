@@ -29,9 +29,9 @@ class Solution
                     count++;
                     numIndex--;
                 }
-                count = std::stoi(s.substr(numIndex + 1, count))
+                count = std::stoi(s.substr(numIndex + 1, count));
 
-                    std::string substring = s.substr(start + 1, i - start - 1);
+                std::string substring = s.substr(start + 1, i - start - 1);
 
                 std::string repeated;
                 for (int j = 0; j < count; ++j)
