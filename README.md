@@ -36,6 +36,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | 394 |  [Decode String](https://leetcode.com/problems/decode-string)| [394.cpp](394.cpp) |
 | 933 |  [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)| [933.cpp](933.cpp) |
 | 649 |  [Dota2 Senate](https://leetcode.com/problems/dota2-senate)| [649.cpp](649.cpp) |
+| 2095 |  [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)| [2095.cpp](2095.cpp) |
 
 ---
 
