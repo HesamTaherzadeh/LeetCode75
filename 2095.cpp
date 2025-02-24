@@ -45,15 +45,45 @@ class Solution
         }
         return ln;
     }
+
+    ListNode* deleteMiddleslowfast(ListNode* head)
+    {
+        if (!head || !head->next)
+        {
+            // If the list has only one node or is empty, return nullptr
+            delete head;
+            return nullptr;
+        }
+
+        ListNode* slow = head;
+        ListNode* fast = head;
+        ListNode* prev = nullptr;
+
+        while (fast && fast->next)
+        {
+            prev = slow;
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        if (prev)
+        {
+            prev->next = slow->next;
+            delete slow;
+        }
+
+        return head;
+    }
 };
 
 int main()
 {
-    // ListNode* ln = new ListNode(1, new ListNode(3, new ListNode(4, new ListNode(7, new
+    ListNode* ln =
+        new ListNode(1, new ListNode(3, new ListNode(4, new ListNode(7, new ListNode(8)))));
     // ListNode(1, new ListNode(2, new ListNode(6)))))));
-    ListNode* ln = new ListNode(1);
+    // ListNode* ln = new ListNode(1);
     Solution sol;
-    auto out = sol.deleteMiddle(ln);
+    auto out = sol.deleteMiddleslowfast(ln);
 
     while (out->next != nullptr)
     {
