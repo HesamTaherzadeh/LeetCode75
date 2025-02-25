@@ -50,7 +50,6 @@ class Solution
     {
         if (!head || !head->next)
         {
-            // If the list has only one node or is empty, return nullptr
             delete head;
             return nullptr;
         }
