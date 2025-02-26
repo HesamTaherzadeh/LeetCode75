@@ -1,6 +1,6 @@
 ### 📌 LeetCode Solutions Repository
 
-![solutions](https://img.shields.io/badge/Solutions-30-purple)
+![solutions](https://img.shields.io/badge/Solutions-31-purple)
 
 This repository contains my solutions to various LeetCode problems. Each solution is implemented in C++ and stored in a separate file named after the problem number.
 
@@ -38,6 +38,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | 649 |  [Dota2 Senate](https://leetcode.com/problems/dota2-senate)| [649.cpp](649.cpp) |
 | 2095 |  [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)| [2095.cpp](2095.cpp) |
 | 328 |  [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)| [328.cpp](328.cpp) |
+| 206 |  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)| [206.cpp](206.cpp) |
 
 ---
 
